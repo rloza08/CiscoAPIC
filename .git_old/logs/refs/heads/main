@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 38409664cca2fcfe1775103503d6a499b73268c8 Russel Gil Lozano <rloza08@safeway.com> 1612328275 +0800	commit (initial): 1st commit
-38409664cca2fcfe1775103503d6a499b73268c8 35d913e0d2822689aa80f71fa800752d792bef94 Russel Gil Lozano <rloza08@safeway.com> 1612342561 +0800	commit: adjustment of getLoginToken
-35d913e0d2822689aa80f71fa800752d792bef94 d0add619bbbbe7ec27cd12fffbfb4c7d8b465d91 Russel Gil Lozano <rloza08@safeway.com> 1612343238 +0800	commit: added double escape in config.yaml
-d0add619bbbbe7ec27cd12fffbfb4c7d8b465d91 e14cd9a87c8697f6868a3025235a2220b883fe0d Russel Gil Lozano <rloza08@safeway.com> 1612350910 +0800	commit: +postAppProfile.py
-e14cd9a87c8697f6868a3025235a2220b883fe0d 0351ddce8134b144336e9d63b04048282cfb083e Russel Gil Lozano <rloza08@safeway.com> 1612352162 +0800	commit: +postEPG2.py
-0351ddce8134b144336e9d63b04048282cfb083e c1c403beab0ee289a94dc7095d19fb7f9198c60a Russel Gil Lozano <rloza08@safeway.com> 1612946653 +0800	commit: add LB & ServiceGraph
-c1c403beab0ee289a94dc7095d19fb7f9198c60a 6df637ebe2d70e53da954fba30301734c6e2b450 Russel Gil Lozano <rloza08@safeway.com> 1612951141 +0800	commit: + Contract & Filter
-6df637ebe2d70e53da954fba30301734c6e2b450 6df637ebe2d70e53da954fba30301734c6e2b450 Russel Gil Lozano <rloza08@safeway.com> 1615859970 +0800	Branch: renamed refs/heads/master to refs/heads/main
