@@ -14,11 +14,11 @@ loginToken = loginToken()
 # Variables
 # 	Application Profile
 tenant = "az-acitest-nonprod-02"
-appProfileName = "Russel-Provider-AppProfile-39-01"
+appProfileName = "Russel-Provider-AppProfile-318-01"
 # 	EPG
-cloudEpgName = "Russel-EPG-Provider-39-01"
+cloudEpgName = "Russel-EPG-Consumer-318-01"
 matchExpression = "custom:role=='web',custom:snet=='ngcp-qa-snet',custom:environment=='qa2',custom:appcode=='ngcp'"
-cloudEPSelectorName = "Russel-EndpointSelector-39-01"
+cloudEPSelectorName = "Russel-EndpointSelector-318-01"
 vrf = "nonprod"
 
 # Create Application Profile

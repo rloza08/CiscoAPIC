@@ -15,7 +15,7 @@ loginToken = loginToken()
 
 ### Create Contract ###
 tenant = "az-acitest-nonprod-02"
-contractName = "Russel-Contract-39-01"
+contractName = "Russel-Contract-318-01"
 scope = "tenant"
 filterName = "Russel-Filter-common-03"
 

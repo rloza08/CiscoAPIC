@@ -15,7 +15,7 @@ loginToken = loginToken()
 # Variables
 	# Network Load Balancer Service
 tenant = "az-acitest-nonprod-02"
-networkLoadBalancerName = "Russel-LB-39-01"
+networkLoadBalancerName = "Russel-LB-318-01"
 customRG = "az-acitest-nonprod-02-network-sb-westus-rg-01"
 serviceType = "network"
 scheme = "internal"
@@ -23,7 +23,7 @@ cloudContextProfile = "az-acitest-nonprod-02"
 subnet = "10.1.0.0/28"
 cidr = "10.1.0.0/22"
 	# Service Graph
-serviceGraphName = "Russel-ServiceGraph-39-01"
+serviceGraphName = "Russel-ServiceGraph-318-01"
 
 	# Create Network Load Balancer Service
 url = config['url'] + "/api/node/mo/uni/tn-" + tenant + "/clb-" + networkLoadBalancerName + ".json"

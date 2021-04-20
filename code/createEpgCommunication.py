@@ -15,12 +15,12 @@ loginToken = loginToken()
 
 # Variables
 tenant = "az-acitest-nonprod-02"
-appProfileProviderName = "Russel-Provider-AppProfile-39-01"
-appProfileConsumerName = "Russel-Consumer-AppProfile-39-01"
-cloudEpgProviderName = "Russel-EPG-Provider-39-01"
-cloudEpgConsumerName = "Russel-EPG-Consumer-39-01"
-contractName = "Russel-Contract-39-01"
-serviceGraphName = "Russel-ServiceGraph-39-01"
+appProfileProviderName = "Russel-Provider-AppProfile-318-01"
+appProfileConsumerName = "Russel-Consumer-AppProfile-318-01"
+cloudEpgProviderName = "Russel-EPG-Provider-318-01"
+cloudEpgConsumerName = "Russel-EPG-Consumer-318-01"
+contractName = "Russel-Contract-318-01"
+serviceGraphName = "Russel-ServiceGraph-318-01"
 cloudListenerName = "Russel-listener-22"
 cloudListenerPort = "22"
 cloudListenerProtocol = "tcp"
